@@ -17,6 +17,17 @@ Be aware, the installation needs technical skills and is not for beginners. Plea
 
 [Basic](https://github.com/s0md3v/roop/wiki/1.-Installation) - It is more likely to work on your computer, but will be quite slow
 
+sudo apt install python3.10
+sudo apt install python3-pip
+sudo apt install git-all
+sudo apt install ffmpeg
+
+git clone https://github.com/s0md3v/roop
+pip install -r requirements.txt
+
+apt install python3-tk
+
+
 [Acceleration](https://github.com/s0md3v/roop/wiki/2.-Acceleration) - Unleash the full potential of your CPU and GPU
 
 
